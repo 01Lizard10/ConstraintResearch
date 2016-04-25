@@ -1,0 +1,24 @@
+# Protokoll 
+
+## Aufgabenstellung / Zielsetzug / Motivation / Einführende Vereinbarungen
+Idee ist die Erstellung einer DSL zur Generierung von Eingabeformularen. Hierbei sollen auch Constraints definiert werden können. 
+Es sei egal ob die Constrains in einer extra Datei definiert werden, oder innerhalb der DSL beschreiben werden.
+Ebenso ist freigestellt ob zur Definition der DSL als Language Workbench MPS von Jetbrains oder xText von der Eclipse Foundation verwendet wird.
+
+
+## Ersten 14 Tage:
+
+Zu Beginn wurde das Git-Repository eingerichtet. Da noch offen ist, ob für dieses Projekt MPS oder xText verwendet werden soll,
+wurde sich zu Beginn in beide Technologin eingearbeitet. Gestartet wurde mit dem Tutorial von MPS Jetbrains:
+
+	Link: [Fast Track to MPS](https://confluence.jetbrains.com/display/MPSD33/Fast+Track+to+MPS)  
+	Link: [Shape Tutorial for MPS](https://confluence.jetbrains.com/display/MPSD33/Shapes+-+an+introductory+MPS+tutorial)
+	
+Im zweiten nächsten Schritt wurde sich xText genauer angeschaut. Dazu genauer die Programmiersprache Xtend, welche bei der Verwendung
+von Xtext eingesetzt wird.
+
+
+### Zusammenfassung
+
+MPS hat gegeüber xText den Vorteil, dass es mehrere Sprachen kombinieren kann. Auch können Sprachen mit grafischen Elementen definiert werden.
+Bei xText sind dagegen nur textuelle Definitionen erlaubt.
