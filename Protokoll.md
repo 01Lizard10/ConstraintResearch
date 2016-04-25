@@ -11,8 +11,8 @@ Ebenso ist freigestellt ob zur Definition der DSL als Language Workbench MPS von
 Zu Beginn wurde das Git-Repository eingerichtet. Da noch offen ist, ob für dieses Projekt MPS oder xText verwendet werden soll,
 wurde sich zu Beginn in beide Technologin eingearbeitet. Gestartet wurde mit dem Tutorial von MPS Jetbrains:
 
-	Link: [Fast Track to MPS](https://confluence.jetbrains.com/display/MPSD33/Fast+Track+to+MPS)  
-	Link: [Shape Tutorial for MPS](https://confluence.jetbrains.com/display/MPSD33/Shapes+-+an+introductory+MPS+tutorial)
+Link: [Fast Track to MPS](https://confluence.jetbrains.com/display/MPSD33/Fast+Track+to+MPS)  
+Link: [Shape Tutorial for MPS](https://confluence.jetbrains.com/display/MPSD33/Shapes+-+an+introductory+MPS+tutorial)
 	
 Im zweiten nächsten Schritt wurde sich xText genauer angeschaut. Dazu genauer die Programmiersprache Xtend, welche bei der Verwendung
 von Xtext eingesetzt wird.
