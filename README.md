@@ -26,8 +26,8 @@ Wie können in einer UML-Klasse Einschränkungen (z.B. Property username und Pro
 ## Literatur
 
    [PDF DocumentModel-Driven Generation of Web Applications in UWE](http://ftp.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-261/paper03.pdf)  
-   [Fun with OCL in Eclipse Mars](http://www.damus.ca/blog/2015/6/15/fun-with-ocl-in-papyrus-mars)
-   [PDF DocumentModel-Driven Web Form Validation with UML and OCL](http://www.dlsi.ua.es/~santi/mdwe2011/papers/mdwe2011_submission_1.pdf]  
+   [Fun with OCL in Eclipse Mars](http://www.damus.ca/blog/2015/6/15/fun-with-ocl-in-papyrus-mars)  
+   [PDF DocumentModel-Driven Web Form Validation with UML and OCL](http://www.dlsi.ua.es/~santi/mdwe2011/papers/mdwe2011_submission_1.pdf)    
    [EMF-REST](http://modeling-languages.com/emf-rest-now-with-data-validation-security-and-full-restful-support/)  
    [PDF DocumentUML and OCL Transformation Model Analysis: Checking Invariant Independence](http://ceur-ws.org/Vol-1530/paper4.pdf)
     
@@ -64,7 +64,7 @@ Wie können in einer UML-Klasse Einschränkungen (z.B. Property username und Pro
 	Releasenotes erklären den Fortschritt (es können auch gern Issues verlinkt sein)  
 	Eine grundlegende Readme beschreibt, die das Projekt zu kompilieren bzw. zu verwenden ist  
 	Ein Wiki beschreibt immer aktuell die Funktionsweisen  
-	**Releasetermine**: 02.05., 16.05., 30.05., 13.06., 27.06.  jeweils 23:59 Uhr
+	Releasetermine: 02.05., 16.05., 30.05., 13.06., 27.06.  jeweils 23:59 Uhr
 
 ### Zusammenfassung der Anforderungen
 
@@ -77,7 +77,7 @@ Wie können in einer UML-Klasse Einschränkungen (z.B. Property username und Pro
 	Recherchieren Sie Frameworks und Konzepte, um Contraints auf Klassendiagramme(!) in UML zu definieren
 	Testen Sie, wenn möglich, erste Kandidaten oder implementieren Sie selbst ein paar Proof of Concepts
 	
-	**Ziele**
+	Ziele
 	Einfache Definition von Contraints im Modell oder in einer separaten Datei  
 	- Property password != Property username  
 	- Es darf nicht zwei Pizzen mit dem Topping „Zwiebel“ geben
