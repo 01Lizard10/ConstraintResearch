@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ConstraintsAspectDescriptor.java">
+      <unit at="9,0,20,0" name="Shapes.constraints.ConstraintsAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:a6cb645a-38c4-4f4e-8f32-1366d1743eb5(Shapes.constraints)/7311218060009303982">
+    <file name="ColorReference_Constraints.java">
+      <node id="7311218060009303982" at="28,39,29,98" concept="7" />
+      <node id="7311218060009303982" at="32,98,33,135" concept="4" />
+      <node id="7311218060009303982" at="36,44,37,20" concept="5" />
+      <node id="7311218060009303982" at="44,63,45,58" concept="5" />
+      <node id="7311218060009361036" at="50,50,51,347" concept="5" />
+      <node id="7311218060009303982" at="57,7,58,22" concept="5" />
+      <node id="7311218060009303982" at="60,0,61,0" concept="6" trace="breakingNode_xr9dxr_a0a0a0a0a1a0b0a1a1" />
+      <node id="7311218060009303982" at="28,0,31,0" concept="1" trace="ColorReference_Constraints#()V" />
+      <node id="7311218060009360385" at="50,0,53,0" concept="3" trace="getName#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="7311218060009303982" at="35,0,39,0" concept="3" trace="hasOwnScopeProvider#()Z" />
+      <node id="7311218060009303982" at="43,0,47,0" concept="3" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="7311218060009303982" at="48,122,53,14" concept="0" />
+      <node id="7311218060009330323" at="48,122,53,14" concept="5" />
+      <node id="7311218060009303982" at="47,0,55,0" concept="3" trace="createScope#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljetbrains/mps/scope/Scope;" />
+      <node id="7311218060009303982" at="41,56,55,10" concept="5" />
+      <node id="7311218060009303982" at="39,0,57,0" concept="3" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="7311218060009303982" at="33,135,57,7" concept="2" />
+      <node id="7311218060009303982" at="31,0,60,0" concept="3" trace="getNotDefaultSReferenceLinks#()Ljava/util/Map;" />
+      <scope id="7311218060009303982" at="28,39,29,98" />
+      <scope id="7311218060009303982" at="36,44,37,20" />
+      <scope id="7311218060009303982" at="44,63,45,58" />
+      <scope id="7311218060009360391" at="50,50,51,347" />
+      <scope id="7311218060009303982" at="28,0,31,0" />
+      <scope id="7311218060009360385" at="50,0,53,0">
+        <var name="child" id="7311218060009360389" />
+      </scope>
+      <scope id="7311218060009303982" at="35,0,39,0" />
+      <scope id="7311218060009303982" at="43,0,47,0" />
+      <scope id="7311218060009303982" at="48,122,53,14" />
+      <scope id="7311218060009303990" at="48,122,53,14" />
+      <scope id="7311218060009303982" at="47,0,55,0">
+        <var name="_context" id="7311218060009303982" />
+        <var name="operationContext" id="7311218060009303982" />
+      </scope>
+      <scope id="7311218060009303982" at="41,56,55,10" />
+      <scope id="7311218060009303982" at="39,0,57,0" />
+      <scope id="7311218060009303982" at="32,98,58,22">
+        <var name="references" id="7311218060009303982" />
+      </scope>
+      <scope id="7311218060009303982" at="31,0,60,0" />
+      <unit id="7311218060009360373" at="49,23,53,13" name="Shapes.constraints.ColorReference_Constraints$3" />
+      <unit id="7311218060009303982" at="42,19,55,9" name="Shapes.constraints.ColorReference_Constraints$2" />
+      <unit id="7311218060009303982" at="34,128,57,5" name="Shapes.constraints.ColorReference_Constraints$1" />
+      <unit id="7311218060009303982" at="27,0,62,0" name="Shapes.constraints.ColorReference_Constraints" />
+    </file>
+  </root>
+</debug-info>
+

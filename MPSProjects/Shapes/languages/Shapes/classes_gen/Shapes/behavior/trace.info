@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <root>
+    <file name="Canvas_BehaviorDescriptor.java">
+      <unit at="16,0,34,0" name="Shapes.behavior.Canvas_BehaviorDescriptor" />
+    </file>
+    <file name="Circle_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="Shapes.behavior.Circle_BehaviorDescriptor" />
+    </file>
+    <file name="ColorReference_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="Shapes.behavior.ColorReference_BehaviorDescriptor" />
+    </file>
+    <file name="Shape_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="Shapes.behavior.Shape_BehaviorDescriptor" />
+    </file>
+    <file name="Square_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="Shapes.behavior.Square_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+

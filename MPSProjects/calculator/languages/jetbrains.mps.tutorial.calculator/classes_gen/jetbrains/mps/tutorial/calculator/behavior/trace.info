@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ThrowStatement" />
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="14,0,42,0" name="jetbrains.mps.tutorial.calculator.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="Calculator_BehaviorDescriptor.java">
+      <unit at="18,0,42,0" name="jetbrains.mps.tutorial.calculator.behavior.Calculator_BehaviorDescriptor" />
+    </file>
+    <file name="InputFieldReference_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="jetbrains.mps.tutorial.calculator.behavior.InputFieldReference_BehaviorDescriptor" />
+    </file>
+    <file name="InputField_BehaviorDescriptor.java">
+      <unit at="14,0,26,0" name="jetbrains.mps.tutorial.calculator.behavior.InputField_BehaviorDescriptor" />
+    </file>
+    <file name="OutputField_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="jetbrains.mps.tutorial.calculator.behavior.OutputField_BehaviorDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:c8d2f35d-f1fc-4196-9539-9eafdb4f159b(jetbrains.mps.tutorial.calculator.behavior)/8812265391831671330">
+    <file name="InputFieldReference_Behavior.java">
+      <unit id="8812265391831671330" at="10,0,13,0" name="jetbrains.mps.tutorial.calculator.behavior.InputFieldReference_Behavior" />
+    </file>
+    <file name="InputFieldReference__BehaviorDescriptor.java">
+      <node id="8812265391831671330" at="20,0,21,0" concept="6" trace="CONCEPT" />
+      <node id="8812265391831671330" at="21,0,22,0" concept="6" trace="REGISTRY" />
+      <node id="8812265391831671330" at="24,0,25,0" concept="6" trace="BH_METHODS" />
+      <node id="8812265391831671330" at="30,57,31,20" concept="8" />
+      <node id="8812265391831671330" at="35,114,36,21" concept="1" />
+      <node id="8812265391831671330" at="40,114,41,49" concept="4" />
+      <node id="8812265391831671330" at="42,26,43,56" concept="10" />
+      <node id="8812265391831671330" at="46,14,47,58" concept="10" />
+      <node id="8812265391831671330" at="52,128,53,49" concept="4" />
+      <node id="8812265391831671330" at="54,26,55,56" concept="10" />
+      <node id="8812265391831671330" at="58,14,59,58" concept="10" />
+      <node id="8812265391831671330" at="65,48,66,22" concept="5" />
+      <node id="8812265391831671330" at="71,40,72,19" concept="5" />
+      <node id="8812265391831671330" at="26,0,28,0" concept="7" trace="___init___#(Lorg/jetbrains/mps/openapi/model/SNode;)V" />
+      <node id="8812265391831671330" at="30,0,33,0" concept="0" trace="InputFieldReference__BehaviorDescriptor#()V" />
+      <node id="8812265391831671330" at="41,49,44,5" concept="2" />
+      <node id="8812265391831671330" at="53,49,56,5" concept="2" />
+      <node id="8812265391831671330" at="34,0,38,0" concept="3" trace="initNode#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SConstructor;[Ljava/lang/Object;)V" />
+      <node id="8812265391831671330" at="44,5,48,5" concept="9" />
+      <node id="8812265391831671330" at="56,5,60,5" concept="9" />
+      <node id="8812265391831671330" at="63,0,68,0" concept="3" trace="getDeclaredMethods#()Ljava/util/List;" />
+      <node id="8812265391831671330" at="69,0,74,0" concept="3" trace="getConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="8812265391831671330" at="39,0,50,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <node id="8812265391831671330" at="51,0,62,0" concept="3" trace="invokeSpecial0#(Lorg/jetbrains/mps/openapi/language/SAbstractConcept;Ljetbrains/mps/core/aspects/behaviour/api/SMethod;[Ljava/lang/Object;)null" />
+      <scope id="8812265391831671330" at="26,63,26,63" />
+      <scope id="8812265391831671330" at="30,57,31,20" />
+      <scope id="8812265391831671330" at="35,114,36,21" />
+      <scope id="8812265391831671330" at="42,26,43,56" />
+      <scope id="8812265391831671330" at="46,14,47,58" />
+      <scope id="8812265391831671330" at="54,26,55,56" />
+      <scope id="8812265391831671330" at="58,14,59,58" />
+      <scope id="8812265391831671330" at="65,48,66,22" />
+      <scope id="8812265391831671330" at="71,40,72,19" />
+      <scope id="8812265391831671330" at="26,0,28,0">
+        <var name="__thisNode__" id="8812265391831671330" />
+      </scope>
+      <scope id="8812265391831671330" at="30,0,33,0" />
+      <scope id="8812265391831671330" at="34,0,38,0">
+        <var name="constructor" id="8812265391831671330" />
+        <var name="node" id="8812265391831671330" />
+        <var name="parameters" id="8812265391831671330" />
+      </scope>
+      <scope id="8812265391831671330" at="63,0,68,0" />
+      <scope id="8812265391831671330" at="69,0,74,0" />
+      <scope id="8812265391831671330" at="40,114,48,5">
+        <var name="methodIndex" id="8812265391831671330" />
+      </scope>
+      <scope id="8812265391831671330" at="52,128,60,5">
+        <var name="methodIndex" id="8812265391831671330" />
+      </scope>
+      <scope id="8812265391831671330" at="39,0,50,0">
+        <var name="method" id="8812265391831671330" />
+        <var name="node" id="8812265391831671330" />
+        <var name="parameters" id="8812265391831671330" />
+      </scope>
+      <scope id="8812265391831671330" at="51,0,62,0">
+        <var name="concept" id="8812265391831671330" />
+        <var name="method" id="8812265391831671330" />
+        <var name="parameters" id="8812265391831671330" />
+      </scope>
+      <unit id="8812265391831671330" at="19,0,75,0" name="jetbrains.mps.tutorial.calculator.behavior.InputFieldReference__BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
