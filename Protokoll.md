@@ -5,22 +5,18 @@ Idee ist die Erstellung einer DSL zur Generierung von Eingabeformularen. Hierbei
 Es sei egal ob die Constrains in einer extra Datei definiert werden, oder innerhalb der DSL beschreiben werden.
 Ebenso ist freigestellt ob zur Definition der DSL als Language Workbench MPS von Jetbrains oder xText von der Eclipse Foundation verwendet wird.
 
-
 ## Ersten 14 Tage
 
 Zu Beginn wurde das Git-Repository eingerichtet. Da noch offen ist, ob für dieses Projekt MPS oder xText verwendet werden soll,
 wurde sich zu Beginn in beide Technologin eingearbeitet. Gestartet wurde mit den Tutorials von MPS Jetbrains:
 
 Link: [Fast Track to MPS](https://confluence.jetbrains.com/display/MPSD33/Fast+Track+to+MPS)  
-Link: [Shape Tutorial for MPS](https://confluence.jetbrains.com/display/MPSD33/Shapes+-+an+introductory+MPS+tutorial)
+Link: [Shape Tutorial for MPS](https://confluence.jetbrains.com/display/MPSD33/Shapes+-+an+introductory+MPS+tutorial)  
 Link: [Calculator Tutorial for MPS](https://www.jetbrains.com/help/mps/3.3/mps-calculator-language-tutorial.html?origin=old_help)
 	
 Die Erstellten Programme sind in dem Ordner MPSProjects zu finden. Das Durcharbeiten der Tutorials dient der Einarbeitung in MPS um, durch
 die mit der Arbeit aufkommenden Vor- und Nachteile, besser entscheiden zu können, welche Language Workbench besser für die Aufgabenstellung geeignet ist.  
 Im zweiten nächsten Schritt wurde sich xText genauer angeschaut. Dazu genauer die Programmiersprache Xtend, welche bei der Verwendung von Xtext eingesetzt wird. Projekte hierfür befinden sich im Xtends-Ordner. 
-
-
-
 
 ### Zusammenfassung der Ersten 14 Tage
 
