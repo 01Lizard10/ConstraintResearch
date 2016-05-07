@@ -68,8 +68,10 @@ Wie können in einer UML-Klasse Einschränkungen (z.B. Property username und Pro
 
 ### Zusammenfassung der Anforderungen
 
-	Basis ist ein UML Modell (am liebsten wäre ein Modell mit Eclipse Papyrus)
-	Beispielmodell könnte die [Spring PetClinic] (http://thomas-woehlke.blogspot.de/2014/02/java-ee-7-petclinic.html) oder der [Spring Pizzashop] (https://roomodeler.com/2011/11/06/beginning-with-roo-modeler-the-pizza-shop-tutorial/) sein
+	Basis ist ein UML Modell (am liebsten wäre ein Modell mit Eclipse Papyrus)  
+	Beispielmodell könnte die [Spring PetClinic](http://thomas-woehlke.blogspot.de/2014/02/java-ee-7-petclinic.html)   
+	oder der [Spring Pizzashop](https://roomodeler.com/2011/11/06/beginning-with-roo-modeler-the-pizza-shop-tutorial/)  
+	sein
 
 #### Aufgaben für das erste Release
 

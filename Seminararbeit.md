@@ -48,3 +48,12 @@ der genau diese Einschränkungen prüft und ggf. eine Meldung ausgibt,
 wenn der Constraint nicht erfüllt ist        
 
 # Fazit
+
+
+# Literaturverzeichnis
+
+[Apel 2012]	Apel, P., Social Media Monitoring Tool UMT Delta von uberMetrics, 2012, URL: http://www.peter-apel.de/blog/social-media-monitoring-tool-ubermetrics/.  
+  
+[Alt/Reinhold 2012]	Alt, R., Reinhold, .O, Social-Customer-Relationship-Management (Social-CRM), 2012.  
+
+
