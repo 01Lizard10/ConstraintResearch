@@ -2,6 +2,7 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/CSS/CSS.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/FormularCreator/FormularCreator.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/FormularCreator/sandbox/FormularCreator.sandbox.msd" folder="" />
     </projectModules>

@@ -7,7 +7,9 @@
   </models>
   <sourcePath />
   <languageVersions>
+    <language id="e30462c3-244a-471f-85b5-0e12ef920590" fqName="CSS" version="0" />
     <language id="2b1b6268-0e37-4cdd-974d-919e2a59d10f" fqName="FormularCreator" version="-1" />
+    <language id="4caf0310-491e-41f5-8a9b-2006b3a94898" fqName="jetbrains.mps.execution.util" version="0" />
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" fqName="jetbrains.mps.lang.core" version="1" />
   </languageVersions>
   <dependencyVersions>

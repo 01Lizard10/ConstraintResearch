@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <root>
+    <file name="Button_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="FormularCreator.behavior.Button_BehaviorDescriptor" />
+    </file>
+    <file name="Checkbox_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="FormularCreator.behavior.Checkbox_BehaviorDescriptor" />
+    </file>
+    <file name="DropdownButton_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="FormularCreator.behavior.DropdownButton_BehaviorDescriptor" />
+    </file>
+    <file name="DropdownElement_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="FormularCreator.behavior.DropdownElement_BehaviorDescriptor" />
+    </file>
+    <file name="Form_BehaviorDescriptor.java">
+      <unit at="16,0,34,0" name="FormularCreator.behavior.Form_BehaviorDescriptor" />
+    </file>
+    <file name="Formelement_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="FormularCreator.behavior.Formelement_BehaviorDescriptor" />
+    </file>
+    <file name="Input_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="FormularCreator.behavior.Input_BehaviorDescriptor" />
+    </file>
+    <file name="Label_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="FormularCreator.behavior.Label_BehaviorDescriptor" />
+    </file>
+    <file name="LineBreak_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="FormularCreator.behavior.LineBreak_BehaviorDescriptor" />
+    </file>
+    <file name="Link_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="FormularCreator.behavior.Link_BehaviorDescriptor" />
+    </file>
+    <file name="RadioButton_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="FormularCreator.behavior.RadioButton_BehaviorDescriptor" />
+    </file>
+    <file name="RadioElement_BehaviorDescriptor.java">
+      <unit at="12,0,21,0" name="FormularCreator.behavior.RadioElement_BehaviorDescriptor" />
+    </file>
+    <file name="TextArea_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="FormularCreator.behavior.TextArea_BehaviorDescriptor" />
+    </file>
+    <file name="Text_BehaviorDescriptor.java">
+      <unit at="11,0,20,0" name="FormularCreator.behavior.Text_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
