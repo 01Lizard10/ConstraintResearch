@@ -88,8 +88,8 @@ Wie können in einer UML-Klasse Einschränkungen (z.B. Property username und Pro
 	
 ## Deployment
 
-ToDo
+Das fertige Projekt befindet sich in einem extra Repository hier:  
+[https://github.com/01Lizard10/XTextUML](https://github.com/01Lizard10/XTextUML)  
+Dieses kann einfach ausgecheckt werden und sollte out-of-the-box funktionieren.  
+Ggf. müssen in Eclipse die Plugins für Xtext, Xtend, Papyrus und UML nachinstalliert werden.
 
-## HowToUse
-
-ToDo
